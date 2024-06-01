@@ -2,7 +2,6 @@ main:
 
   - title: "Certifying MIP-based Presolve Reductions for 0-1 Integer Linear Programs"
     authors: Alexander Hoen* , Andy Oertel, Ambros Gleixner, Jakob Nordström (*Corresponding authors)
-    conference_short: CPAIOR 2024
     conference: The 21st International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research <strong>(CPAIOR)</strong>, 2023.
     pdf: https://arxiv.org/abs/2401.09277
     page: https://www.springerprofessional.de/certifying-mip-based-presolve-reductions-for-integer-linear-prog/27143840
@@ -12,7 +11,6 @@ main:
 
   - title: "Scylla: a Matrix-free Fix-propagate-and-project Heuristic for Mixed-integer Optimization."
     authors: Gioni Mexi, Mathieu Besançon, Suresh Bolusani, Antonia Chmiela, Alexander Hoen, Ambros Gleixner (*Corresponding authors)
-    conference_short: GOR
     conference: Proceedings of Conference of the Society for Operations Research in Germany <strong>(GOR)</strong>, 2023.
     pdf: https://arxiv.org/abs/2307.03466
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -23,6 +21,6 @@ main:
   - title: "Parallel Presolving Library for Integer and Linear Programming with Multiprecision Support"
     authors: Ambros Gleixner, Leona Gottwald, Alexander Hoen
     journal: INFORMS Journal on Computing. 
-    DOI: 10.1287/ijoc.2022.0171 
+    doi: 10.1287/ijoc.2022.0171 
     pdf: https://arxiv.org/abs/2206.10709
     code: https://github.com/scipopt/papilo
