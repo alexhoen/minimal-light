@@ -17,3 +17,18 @@ main:
     page: 
     bibtex: 
     notes: 
+
+  - title: "Parallel Presolving Library for Integer and Linear Programming with Multiprecision Support"
+    authors: Ambros Gleixner, Leona Gottwald, Alexander Hoen*
+    conference: "INFORMS Journal on Computing 35(6):1329-1341"
+    doi: 10.1287/ijoc.2022.0171 
+    pdf: https://arxiv.org/abs/2206.10709
+    code: https://github.com/scipopt/papilo
+
+  - title: "MIP-DD: A Delta Debugger for Mixed Integer Programming Solvers"
+    authors: Alexander Hoen*, Dominik Kamp, Ambros Gleixner
+    conference: 
+    pdf: https://arxiv.org/abs/2405.19770
+    page: 
+    bibtex: 
+    notes: under review
