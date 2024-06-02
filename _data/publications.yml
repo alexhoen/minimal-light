@@ -36,10 +36,10 @@ main:
     code: https://github.com/scipopt/MIP-DD
     notes: under review
 
-  - title: "TESs"
-    authors: Alexander Hoen, Ambros Gleixner
+  - title: "A diving heuristic for mixed-integer problems wiht unbounded semi-continuous variables"
+    authors: Katrin Halbig, Alexander Hoen, Ambros Gleixner
     conference: 
-    pdf: https://arxiv.org/abs/2504.19411
+    pdf: https://arxiv.org/abs/2503.19411
     page: 
     bibtex: 
     code: 
