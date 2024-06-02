@@ -36,6 +36,14 @@ main:
     code: https://github.com/scipopt/MIP-DD
     notes: under review
 
+  - title: "A diving huristic for mixed-integer problems with unbounded semi-continuous variables"
+    authors: Katrin Halbig, Alexander Hoen, Ambros Gleixner, Dieter Weninger
+    conference: 
+    pdf: https://arxiv.org/abs/2403.19411
+    page: 
+    bibtex: 
+    notes: 
+
 - title: "A diving heuristic for mixed-integer problems with unbounded semi-continuous variables"
     authors: Katrin Halbig*, Alexander Hoen, Ambros Gleixner, Dieter Weninger
     conference: 
