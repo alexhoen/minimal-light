@@ -7,6 +7,7 @@ main:
     page: https://www.springerprofessional.de/certifying-mip-based-presolve-reductions-for-integer-linear-prog/27143840
     bibtex: https://bib.yliu.me/MICCAI23.txt
     doi: https://doi.org/10.1007/978-3-031-60597-0_20
+    code: 
     notes:
 
   - title: "Scylla: a Matrix-free Fix-propagate-and-project Heuristic for Mixed-integer Optimization."
@@ -20,7 +21,7 @@ main:
 
   - title: "Parallel Presolving Library for Integer and Linear Programming with Multiprecision Support"
     authors: Ambros Gleixner, Leona Gottwald, Alexander Hoen* (*Corresponding authors)
-    conference: PaPILO: A Parallel Presolving Library for Integer and Linear Optimization with Multiprecision Support. INFORMS Journal on Computing 35(6):1329-1341
+    conference: "INFORMS Journal on Computing 35(6):1329-1341"
     doi: 10.1287/ijoc.2022.0171 
     pdf: https://arxiv.org/abs/2206.10709
     code: https://github.com/scipopt/papilo
