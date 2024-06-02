@@ -14,7 +14,6 @@ main:
     authors: Gioni Mexi*, Mathieu Besançon, Suresh Bolusani, Antonia Chmiela, Alexander Hoen, Ambros Gleixner (*Corresponding authors)
     conference: Proceedings of Conference of the Society for Operations Research in Germany <strong>(GOR)</strong>, 2023.
     pdf: https://arxiv.org/abs/2307.03466
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: 
     bibtex: 
     notes: 
