@@ -24,6 +24,7 @@ main:
     doi: 10.1287/ijoc.2022.0171 
     pdf: https://arxiv.org/abs/2206.10709
     code: https://github.com/scipopt/papilo
+    bibtex: https://github.com/alexhoen/minimal-light/blob/main/_data/papilo.bib
 
   - title: "MIP-DD: A Delta Debugger for Mixed Integer Programming Solvers"
     authors: Alexander Hoen*, Dominik Kamp, Ambros Gleixner
