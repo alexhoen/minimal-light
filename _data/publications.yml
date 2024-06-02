@@ -22,6 +22,7 @@ main:
     authors: Ambros Gleixner, Leona Gottwald, Alexander Hoen*
     conference: "INFORMS Journal on Computing 35(6):1329-1341"
     doi: 10.1287/ijoc.2022.0171 
+    page: https://pubsonline.informs.org/doi/10.1287/ijoc.2022.0171
     pdf: https://arxiv.org/abs/2206.10709
     code: https://github.com/scipopt/papilo
     bibtex: https://github.com/alexhoen/minimal-light/blob/main/_data/papilo.bib
@@ -35,3 +36,10 @@ main:
     code: https://github.com/scipopt/MIP-DD
     notes: under review
 
+- title: "A diving heuristic for mixed-integer problems with unbounded semi-continuous variables"
+    authors: Katrin Halbig*, Alexander Hoen, Ambros Gleixner, Dieter Weninger
+    conference: 
+    pdf: https://arxiv.org/abs/2403.19411
+    page: 
+    bibtex: 
+    notes: under review
