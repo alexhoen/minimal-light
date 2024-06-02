@@ -37,7 +37,7 @@ main:
     notes: under review
 
   - title: "A diving heuristic for mixed-integer problems wiht unbounded semi-continuous variables"
-    authors: Katrin Halbig, Alexander Hoen, Ambros Gleixner
+    authors: Katrin Halbig, Alexander Hoen, Ambros Gleixner, Dieter Weninger
     conference: 
     pdf: https://arxiv.org/abs/2503.19411
     page: 
