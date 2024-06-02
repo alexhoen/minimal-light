@@ -27,24 +27,6 @@ main:
     code: https://github.com/scipopt/papilo
     bibtex: https://github.com/alexhoen/minimal-light/blob/main/_data/papilo.bib
 
-  - title: "MIP-DD: A Delta Debugger for Mixed Integer Programming Solvers"
-    authors: Alexander Hoen*, Dominik Kamp, Ambros Gleixner
-    conference: 
-    pdf: https://arxiv.org/abs/2405.19770
-    page: 
-    bibtex: 
-    code: https://github.com/scipopt/MIP-DD
-    notes: under review
-
-  - title: "A diving heuristic for mixed-integer problems with unbounded semi-continuous variables"
-    authors: Katrin Halbig, Alexander Hoen, Ambros Gleixner, Dieter Weninger
-    conference: 
-    pdf: https://arxiv.org/abs/2503.19411
-    page: 
-    bibtex: 
-    code: 
-    notes: under review
-
   - title: "Enabling research through the SCIP optimization suite 8.0"
     authors: TBD
     conference: "ACM Transactions on Mathematical Software 49(2):1-21"
@@ -60,3 +42,23 @@ main:
     page: https://hal.science/hal-03595412/
     bibtex: 
     code: 
+
+  - title: "MIP-DD: A Delta Debugger for Mixed Integer Programming Solvers"
+    authors: Alexander Hoen*, Dominik Kamp, Ambros Gleixner
+    conference: 
+    pdf: https://arxiv.org/abs/2405.19770
+    page: 
+    bibtex: 
+    code: https://github.com/scipopt/MIP-DD
+    notes: submitted
+
+  - title: "A diving heuristic for mixed-integer problems with unbounded semi-continuous variables"
+    authors: Katrin Halbig, Alexander Hoen, Ambros Gleixner, Dieter Weninger
+    conference: 
+    pdf: https://arxiv.org/abs/2503.19411
+    page: 
+    bibtex: 
+    code: 
+    notes: submitted
+
+
