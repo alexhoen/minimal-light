@@ -12,6 +12,10 @@ I study mixed integer linear programming, with a special interest in exact solvi
 
 {% include_relative _includes/publications.md %}
 
+## Technical reports
+
+
+
 ## Talks
 
 - "PaPILO: Parallelising presolving in Mixed Integer Programming" @ *Euro 2021 in Athens*
