@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a ph.d. researcher in the [IOL](https://github.com/ZIB-IOL) group at Zuse-Institut Berlin. I am maintainer of the presolving library [PaPILO](https://github.com/scipopt/papilo) and a developer in [SCIP](https://github.com/scipopt/).
+I am a ph.d. researcher in the [IOL]([https://github.com/ZIB-IOL](https://iol.zib.de/)) group at Zuse-Institut Berlin. I am maintainer of the presolving library [PaPILO](https://github.com/scipopt/papilo) and a developer in [SCIP](https://github.com/scipopt/).
 
 ## Research Interests
 
