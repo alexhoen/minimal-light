@@ -6,11 +6,11 @@ main:
     pdf: https://arxiv.org/abs/2401.09277
     page: https://www.springerprofessional.de/certifying-mip-based-presolve-reductions-for-integer-linear-prog/27143840
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: 
+    doi: https://doi.org/10.1007/978-3-031-60597-0_20
     notes:
 
   - title: "Scylla: a Matrix-free Fix-propagate-and-project Heuristic for Mixed-integer Optimization."
-    authors: Gioni Mexi, Mathieu Besançon, Suresh Bolusani, Antonia Chmiela, Alexander Hoen, Ambros Gleixner (*Corresponding authors)
+    authors: Gioni Mexi*, Mathieu Besançon, Suresh Bolusani, Antonia Chmiela, Alexander Hoen, Ambros Gleixner (*Corresponding authors)
     conference: Proceedings of Conference of the Society for Operations Research in Germany <strong>(GOR)</strong>, 2023.
     pdf: https://arxiv.org/abs/2307.03466
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -19,8 +19,10 @@ main:
     notes: 
 
   - title: "Parallel Presolving Library for Integer and Linear Programming with Multiprecision Support"
-    authors: Ambros Gleixner, Leona Gottwald, Alexander Hoen
-    journal: INFORMS Journal on Computing. 
+    authors: Ambros Gleixner, Leona Gottwald, Alexander Hoen* (*Corresponding authors)
+    conference: PaPILO: A Parallel Presolving Library for Integer and Linear Optimization with Multiprecision Support. INFORMS Journal on Computing 35(6):1329-1341
     doi: 10.1287/ijoc.2022.0171 
     pdf: https://arxiv.org/abs/2206.10709
     code: https://github.com/scipopt/papilo
+
+
