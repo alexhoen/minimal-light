@@ -14,9 +14,6 @@ I study mixed integer linear programming, with a special interest in exact solvi
 
 ## Technical reports
 
-{% include_relative _includes/reports.md %}
-
-
 ## Talks
 
 - "Certifying MIP-Based Presolve Reductions for 0-1 Integer Linear Programs" @ *ISMP 2024 in Montreal (upcomming)*
