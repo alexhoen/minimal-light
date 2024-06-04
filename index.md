@@ -12,7 +12,7 @@ I study mixed integer linear programming, with a special interest in exact solvi
 
 {% include_relative _includes/publications.md %}
 
-## Technical reports
+{% include_relative _includes/reports.md %}
 
 
 
