@@ -14,6 +14,7 @@ I study mixed integer linear programming, with a special interest in exact solvi
 
 ## Technical reports
 
+{% include_relative _includes/reports.md %}
 
 
 ## Talks
