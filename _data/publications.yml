@@ -28,7 +28,7 @@ main:
     bibtex: https://github.com/alexhoen/minimal-light/blob/main/_data/papilo.bib
 
   - title: "Enabling research through the SCIP optimization suite 8.0"
-    authors: TBD
+    authors: Mathieu Besançon, Ksenia Bestuzheva, Wei-Kun Chen, Antonia Chmiela, Tim Donkiewicz, Jasper Van Doornmalen, Leon Eifler, Oliver Gaul, Gerald Gamrath, Ambros Gleixner, Leona Gottwald, Christoph Graczyk, Katrin Halbig, Alexander Hoen, Christopher Hojny, Rolf van Der Hulst, Thorsten Koch, Marco Lübbecke, Stephen J Maher, Frederic Matter, Erik Mühmer, Benjamin Müller, Marc E Pfetsch, Daniel Rehfeldt, Steffan Schlein, Franziska Schlösser, Felipe Serrano, Yuji Shinano, Boro Sofranac, Mark Turner, Stefan Vigerske, Fabian Wegscheider, Philipp Wellner, Dieter Weninger, Jakob Witzig
     conference: "ACM Transactions on Mathematical Software 49(2):1-21"
     pdf: https://arxiv.org/abs/2303.07101
     page: https://dl.acm.org/doi/abs/10.1145/3585516
@@ -36,7 +36,7 @@ main:
     code: 
 
   - title: "SCIP8: rethinking nonlinear constraint representation and recent progress"
-    authors: TBD
+    authors: Mathieu Besançon, Ksenia Bestuzheva, Wei-Kun Chen, Antonia Chmiela, Tim Donkiewicz, Jasper Van Doornmalen, Leon Eifler, Oliver Gaul, Gerald Gamrath, Ambros Gleixner, Leona Gottwald, Christoph Graczyk, Katrin Halbig, Alexander Hoen, Christopher Hojny, Rolf van Der Hulst, Thorsten Koch, Marco Lübbecke, Stephen J Maher, Frederic Matter, Erik Mühmer, Benjamin Müller, Marc E Pfetsch, Daniel Rehfeldt, Steffan Schlein, Franziska Schlösser, Felipe Serrano, Yuji Shinano, Boro Sofranac, Mark Turner, Stefan Vigerske, Fabian Wegscheider, Philipp Wellner, Dieter Weninger, Jakob Witzig
     conference: 23ème congrès annuel de la Société Française de Recherche Opérationnelle et d'Aide à la Décision
     pdf: https://hal.science/hal-03595412v1/document
     page: https://hal.science/hal-03595412/
