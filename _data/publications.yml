@@ -12,9 +12,11 @@ main:
 
   - title: "Scylla: a Matrix-free Fix-propagate-and-project Heuristic for Mixed-integer Optimization"
     authors: Gioni Mexi*, Mathieu Besançon, Suresh Bolusani, Antonia Chmiela, Alexander Hoen, Ambros Gleixner
-    conference: Proceedings of Conference of the Society for Operations Research in Germany <strong>(GOR)</strong>, 2023
+    conference: Operations Research Proceedings 2023
     pdf: https://arxiv.org/abs/2307.03466
     page: https://link.springer.com/book/9783031584046
+    editor: Guido Voigt, Malte Fliedner, Knut Haase, Wolfgang Brüggemann, Kai Hoberg, Joern Meissner
+    pages: 1-8
     bibtex: 
     notes: 
 
